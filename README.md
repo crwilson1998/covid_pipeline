@@ -1,4 +1,4 @@
-# covid_pipeline
+# Covid Pipeline
 This repository holds my covid data pipeline project
 
 # Purpose
